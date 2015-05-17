@@ -49,3 +49,17 @@ This is just some stuff... and few notes on what I learnt, following the course.
   once stashed you can checkout to other branches and come back and apply as required
  * `git stash list`  
   shows all stashes
+
+* `*git clone <repository:https>*`  
+ clone a repository. will ask for username & password.
+
+* `**git push [branch]**`  
+ push current commits to the origin/master
+
+* `**git pull [branch]**`  
+ pull from the origin/master to current branch
+ does a fetch+merge
+
+* `**git fetch [branch]**`  
+ gets all the stuff from the branch specified, and makes the changed in your local rep. but does not commit these changes  
+ merging, makes the fetched branch and current branch merge
