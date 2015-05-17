@@ -1,7 +1,8 @@
-HI! This is just some stuff and notes on what I learnt from git
 
-This line of text only appears in master branch as of now
-## Learnt Stuff:-
+* HI! This is just some stuff and notes on what I learnt from git
+* This line of text only appears in both branches now
+
+#Learnt Stuff:-
 
 git  add <path>
 	adds the contents of current path to the index
@@ -29,3 +30,13 @@ git rebase <branchname>
 
 git diff <b1> <b2>
 	will show diff b/w the two
+
+git merge <b1>
+	merges current branch with b1
+
+git reset --hard ORIG_HEAD
+	pulls back changes and reverts to the point before last merge
+
+
+git checkout -b <bname>
+	creates a new branch bname and then checks out to it (shorthand)
