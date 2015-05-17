@@ -1,5 +1,6 @@
 HI!
 
+This line of text only appears in master branch as of now
 ## Learnt Stuff:-
 
 git  add <path>
