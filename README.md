@@ -9,4 +9,8 @@
  
 * **output.txt**
 
-  output of the git statuses, just checking
+  output of a diff, an example.
+
+* **status.txt**
+
+  outputs of status, examples.
