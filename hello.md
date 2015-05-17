@@ -1,4 +1,4 @@
-HI!
+HI! This is just some stuff and notes on what I learnt from git
 
 This line of text only appears in master branch as of now
 ## Learnt Stuff:-
