@@ -50,16 +50,16 @@ This is just some stuff... and few notes on what I learnt, following the course.
  * `git stash list`  
   shows all stashes
 
-* `*git clone <repository:https>*`  
+* **`git clone <repository:https>`**  
  clone a repository. will ask for username & password.
 
-* `**git push [branch]**`  
+* **`git push [branch]`**  
  push current commits to the origin/master
 
-* `**git pull [branch]**`  
+* **`git pull [branch]`**  
  pull from the origin/master to current branch
  does a fetch+merge
 
-* `**git fetch [branch]**`  
- gets all the stuff from the branch specified, and makes the changed in your local rep. but does not commit these changes  
- merging, makes the fetched branch and current branch merge
+* **`git fetch [branch]`**  
+ gets all the stuff from the branch specified, and makes the changes in your local rep. but does not commit these changes.
+ finally, you should merge these two branches.
