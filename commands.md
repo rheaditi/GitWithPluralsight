@@ -1,10 +1,10 @@
+# Hi!
 
-* HI! This is just some stuff and notes on what I learnt from git
-* This line of text only appears in both branches now
+This is just some stuff... and few notes on what I learnt, following the course.
 
-#Learnt Stuff:-
+## Commands etc.
 
-git  add <path>
+* git  add <path>
 	adds the contents of current path to the index
 	-v for verbose
 
