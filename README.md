@@ -14,3 +14,8 @@
 * **status.txt**
 
   outputs of status, examples.
+
+
+## Sources
+
+* 'github-git-cheat-sheet.pdf' is from ['GitHub Git Docs'](http://git-scm.com/doc).
