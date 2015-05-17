@@ -11,6 +11,8 @@ git  add <path>
 git branch
 	shows current branches
 	--color : show with colors
+	### git branch -d <b1>
+		deletes a branch b1
 
 git checkout <branchname>
 	change to that branch
@@ -40,3 +42,12 @@ git reset --hard ORIG_HEAD
 
 git checkout -b <bname>
 	creates a new branch bname and then checks out to it (shorthand)
+
+git stash
+	its like a half-assed commit.
+	when you don't want to commit half-done work, just stash it. the changes to tracked files get added to a stash stack.
+	this stack can be reapplied later using
+		### git stash apply
+	once stashed you can checkout to other branches and come back and apply as required
+		### git stash list
+			shows all stashed
